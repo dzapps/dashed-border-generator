@@ -7,7 +7,7 @@ and unlike the `border-style: dashed` property,
 can change distance between dashed lines, 
 set custom pattern, add dash offset or even change a line cap.
 
-## [View in Action](http://kovart.github.io/dashed-border-generator/)
+## [View in Action](https://dzapps.github.io/dashed-border-generator/)
 ![intro](./intro.png)
 
 ## Dependencies
